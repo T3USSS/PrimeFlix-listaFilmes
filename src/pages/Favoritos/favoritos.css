@@ -8,10 +8,12 @@
 
 .meus-filmes h1{
   margin-bottom: 14px;
+  color: #fff;
 }
 
 .meus-filmes span{
   font-size: 18px;
+  color: white;
 }
 
 .meus-filmes ul{
@@ -34,6 +36,9 @@
 
 .meus-filmes div a {
   text-decoration: none;
-  color: #116feb;
-  margin-right: 14px;
+  margin-right: 10px;
+  background-color: #fff;
+  border-radius: 2px;
+  padding: 4px;
+  color: black;
 }

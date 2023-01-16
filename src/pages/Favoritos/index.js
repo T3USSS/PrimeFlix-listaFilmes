@@ -37,7 +37,7 @@ function Favoritos(){
               <span>{item.title}</span>
 
               <div>
-                <Link to={`/filme/${item.id}`}>Ver detalhes</Link>
+                <Link to={`/filme/${item.id}`}>Detalhes</Link>
                 <button onClick={() => excluirFilme(item.id) }>Excluir</button>
               </div>
             </li>
